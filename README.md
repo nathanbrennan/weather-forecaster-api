@@ -12,7 +12,7 @@ This guide assumes you have already followed the [Laravel installation guide](ht
 $ git clone git@github.com:nathanbrennan/weather-forecaster-api.git
 ```
 
-2. Navigate to the `weather-forecaster-api` directory and copy the `.env.example` file to `.env`
+2. Navigate to the `weather-forecaster-api` folder and copy the `.env.example` file to `.env`
 
 ```
 $ cd weather-forecaster-api
