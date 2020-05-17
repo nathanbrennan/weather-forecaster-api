@@ -36,4 +36,11 @@ Simply run the php artisan serve command from within the `weather-forecaster-api
 $ php artisan serve
 ```
 
-The Laravel dev server should now be running at `http://127.0.0.1:8000`
+The Laravel dev server should now be running at http://127.0.0.1:8000
+
+You can now get weather forecasts for Australian cities by making get requests to `http://localhost:8000/api/weather/CITY_NAME`.
+
+For example:
+
+-   http://localhost:8000/api/weather/brisbane
+-   http://localhost:8000/api/weather/sydney
